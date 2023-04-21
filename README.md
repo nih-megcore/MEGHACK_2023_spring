@@ -1,5 +1,7 @@
 # MEGHACK_2023_spring
 
+## Location info
+https://megcore.nih.gov/index.php/MEG_Hackathon_2023
 
 # Ideas
 ## Eyetracking v ground truth
