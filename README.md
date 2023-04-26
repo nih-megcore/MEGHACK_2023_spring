@@ -33,9 +33,10 @@ Allison Nugent <br>
 
 ## Effects of ICA group based initial conditions versus random start
 Jeff Stout <br>
--- ICA is typically started from a random seed
--- Use group ICA to generate average topographies 
--- Set average topos as starting conditions prior to iteration
+-- ICA is typically started from a random seed <br>
+-- Use group ICA to generate average topographies <br>
+-- Set average topos as starting conditions prior to iteration <br>
+-- Assess stability of resulting ICAs and number of components used per artifact <br>
 
 
 
