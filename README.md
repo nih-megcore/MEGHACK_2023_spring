@@ -31,6 +31,13 @@ Lead: Price Withers
 Allison Nugent <br>
 -- Use combat/covbat/etc on initial open MEG data from the Enigma MEG Project
 
+## Effects of ICA group based initial conditions versus random start
+Jeff Stout <br>
+-- ICA is typically started from a random seed
+-- Use group ICA to generate average topographies 
+-- Set average topos as starting conditions prior to iteration
+
+
 
 
 
