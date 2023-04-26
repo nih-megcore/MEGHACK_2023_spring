@@ -5,11 +5,15 @@ https://megcore.nih.gov/index.php/MEG_Hackathon_2023
 
 # Ideas
 ## Eyetracking v ground truth
-(No Lead Currently) <br>
+Co-Leads: Rohini Kumar and Sebastion Montesinos <br>
 -- Eye tracking data will be collected in the next week or two <br>
 -- Objective - Minimize the average error between the on-screen eye fixation mark and calculated eye location <br>
 -- Fork this repository: https://github.com/nih-megcore/nih_to_mne.git <br>
 ---- Use this as a base file for ideas: nih2mne/eyetracking_preprocessing.py <br>
+
+## Epilepsy spike spread vs white matter connectivity
+Lead: Price Withers
+-- ...
 
 ## Statistical Group analysis
 (No Lead Currently) <br>
