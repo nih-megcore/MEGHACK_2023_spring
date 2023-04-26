@@ -23,6 +23,10 @@ https://megcore.nih.gov/index.php/MEG_Hackathon_2023
 -- Assess reaction time versus stimulus time <br>
 -- Regress stimulus time versus activation over group data <br>
 
+## Harmonization Procedures for consortium data
+Allison Nugent <br>
+-- Use combat/covbat/etc on initial open MEG data from the Enigma MEG Project
+
 
 
 
