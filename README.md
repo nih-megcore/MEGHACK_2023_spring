@@ -3,6 +3,9 @@
 ## Location info
 https://megcore.nih.gov/index.php/MEG_Hackathon_2023
 
+### Github SSH key setup
+https://github.com/nih-megcore/MEGHACK_2023_spring/wiki/Connect-To-A-Github-Repository-Using-SSH
+
 # Ideas
 ## Eyetracking v ground truth
 Co-Leads: Rohini Kumar and Sebastion Montesinos <br>
