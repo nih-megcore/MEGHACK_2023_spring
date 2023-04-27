@@ -6,6 +6,7 @@ https://megcore.nih.gov/index.php/MEG_Hackathon_2023
 # Ideas
 ## Eyetracking v ground truth
 Co-Leads: Rohini Kumar and Sebastion Montesinos <br>
+https://github.com/sebmonte/MEG-Hackathon/tree/main <br>
 -- Eye tracking data will be collected in the next week or two <br>
 -- Objective - Minimize the average error between the on-screen eye fixation mark and calculated eye location <br>
 -- Fork this repository: https://github.com/nih-megcore/nih_to_mne.git <br>
