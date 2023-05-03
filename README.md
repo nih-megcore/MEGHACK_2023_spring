@@ -10,7 +10,8 @@ https://github.com/nih-megcore/MEGHACK_2023_spring/wiki/Connect-To-A-Github-Repo
 ## Eyetracking v ground truth
 Co-Leads: Rohini Kumar and Sebastion Montesinos <br>
 https://github.com/sebmonte/MEG-Hackathon/tree/main <br>
--- Eye tracking data will be collected in the next week or two <br>
+-- 4 subject datasets are available in the above github repository <br>
+-- Actual positions of the stimuli are in the results folder.  Eye tracking data is available in the UADC channels <br>
 -- Objective - Minimize the average error between the on-screen eye fixation mark and calculated eye location <br>
 -- Fork this repository: https://github.com/nih-megcore/nih_to_mne.git <br>
 ---- Use this as a base file for ideas: nih2mne/eyetracking_preprocessing.py <br>
