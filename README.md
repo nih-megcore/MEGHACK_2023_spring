@@ -39,12 +39,10 @@ Lead: Price Withers <br>
 Allison Nugent <br>
 -- Use combat/covbat/etc on initial open MEG data from the Enigma MEG Project
 
-## Effects of ICA group based initial conditions versus random start
-Jeff Stout <br>
--- ICA is typically started from a random seed <br>
--- Use group ICA to generate average topographies <br>
--- Set average topos as starting conditions prior to iteration <br>
--- Assess stability of resulting ICAs and number of components used per artifact <br>
+## Develop interactive dashboard for exploring MEG datasets
+Jeff Stout and Arshitha Basavaraj <br>
+-- Build a dashboard in Shiny python https://shiny.rstudio.com/py/ <br>
+
 
 
 
