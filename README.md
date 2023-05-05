@@ -42,7 +42,7 @@ Allison Nugent <br>
 ## Develop interactive dashboard for exploring MEG datasets
 Jeff Stout and Arshitha Basavaraj <br>
 -- Build a dashboard in Shiny python https://shiny.rstudio.com/py/ <br>
-
+-- https://github.com/jstout211/MEGHack_dashboard <br>
 
 
 
