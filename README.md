@@ -23,6 +23,17 @@ Lead: Price Withers <br>
 - 2 group members will determine latencies between "Propagation Pairs". The initial spiking region from averaged IEDs will have a latency of 0ms and all other regions which show significant activation will have their own latency at the time of activion. Goal output: 1 vector of size n_parcels per patient with latencies of spiking. Majority of values will be NaN and timings will range from 0ms to ~100ms.
 - 2 group members will write code to convert latency vectors and DWI connectivity matrices into figures 3A-B and 4A-B. Since this will not be available until end of day, they can use random vectors until data are prepared. Additional analyses can be prepared to incorporate pre- and post-operative DWI data and seizure free/persist outcomes.
 
+## Harmonization Procedures for consortium data
+Allison Nugent <br>
+-- Use combat/covbat/etc on initial open MEG data from the Enigma MEG Project
+
+## Develop interactive dashboard for exploring MEG datasets
+Jeff Stout and Arshitha Basavaraj <br>
+-- Build a dashboard in Shiny python https://shiny.rstudio.com/py/ <br>
+-- https://github.com/jstout211/MEGHack_dashboard <br>
+
+
+### Other projects for next time
 ## Statistical Group analysis
 (No Lead Currently) <br>
 -- Use the HV data: https://openneuro.org/datasets/ds004215/versions/1.0.2  <br>
@@ -34,16 +45,6 @@ Lead: Price Withers <br>
 -- HV data can be used and will be prepped <br>
 -- Assess reaction time versus stimulus time <br>
 -- Regress stimulus time versus activation over group data <br>
-
-## Harmonization Procedures for consortium data
-Allison Nugent <br>
--- Use combat/covbat/etc on initial open MEG data from the Enigma MEG Project
-
-## Develop interactive dashboard for exploring MEG datasets
-Jeff Stout and Arshitha Basavaraj <br>
--- Build a dashboard in Shiny python https://shiny.rstudio.com/py/ <br>
--- https://github.com/jstout211/MEGHack_dashboard <br>
-
 
 
 
